@@ -45,4 +45,4 @@ valor total dos gastos por categoria, organizadas em ordem alfabética.
 
 
 ### Contribuições
-* Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
+* Contribuições e possíveis melhorias, no nosso ponto de vista são sempre bem-vindas.
