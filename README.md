@@ -3,7 +3,7 @@
 ## Project Description
 
    * In this project was proposed for the group carry out an expense control in Assembly-MIPS, the program must to :
-* 1) Register an expense: record data of an expense, contains the minimun informations:  data (day, month and year in numeric format), category (type of expense defined by the user with at most 15 characters) and amount spend in "real". Wich expense register must own one field called id (single numeric identifier), inicialized with the amount 1 and incrementing automatically in every new expense recorded.
+* 1) Register an expense: record data of an expense, contains the minimun informations:  data (day, month and year in numeric format), category (type of expense defined by the user with at most 15 characters) and amount spent in "real". Each expense register must own one field called id (single numeric identifier), inicialized with the amount 1 and incrementing automatically in every new expense recorded.
 * 2) List of expense: display all the expenses recorded.
 * 3) Delete an expense: delete by selecting the id.
 * 4) Display month's expense: based in the data from all the expenses recorded, display the amount in each month.
