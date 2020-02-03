@@ -32,7 +32,7 @@ valor total dos gastos por categoria, organizadas em ordem alfabética.
 * Para executar o programa na linguagem assembly do MIPS, no qual o algoritmo foi realizado, necessita apenas do software MARS, podendo ser realizado o download e desenvolvendo o projeto com ele, como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima.
 
 ### Desenvolvimento
-* Git clone https://github.com/murilodepa/Controle-de-Despesas-em-Assembly-do-MIPS
+* Git clone https://github.com/murilodepa/Expense-Control.git
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o software MARS, deve ser aberto com o software o código anexado no repositório *.asm*.
 * Logo em seguida, execute o programa, para o projeto ser executado.
