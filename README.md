@@ -1,48 +1,32 @@
-# Controle de Despesas em Assembly do MIPS
+# Project that realizes expense control in Assembly-MIPS
 
-## Projeto que realiza o controle de gastos pessoais em Assembly do MIPS.
+## Project Description
 
-### Descrição do Projeto
-   * Neste projeto foi proposto para o grupo realizar um controle de gastos pessoais na linguagem assembly do MIPS, o programa tem que ser capaz de:
-* 1) Registrar despesa: registrar dados de uma despesa, contendo no mínimo informações
-como data (dia, mês e ano em formato numérico), categoria (tipo de despesa definido pelo
-usuário com até 15 caracteres) e valor gasto em reais. Cada despesa registrada deve possuir
-um campo id (identificador numérico único), iniciado com o valor 1 e incrementado de forma
-automática a cada nova despesa registrada.
-* 2) Listar despesas: exibir dados de todas as despesas cadastradas.
-* 3) Excluir despesa: excluir dados de uma despesa identificada pelo id informado pelo usuário.
-* 4) Exibir gasto mensal: com base nos dados de todas as despesas registradas, exibir o valor
-total dos gastos em cada mês.
-* 5) Exibir gasto por categoria: com base nos dados de todas as despesas registradas, exibir o
-valor total dos gastos por categoria, organizadas em ordem alfabética.
-* 6) Exibir ranking de despesas: com base nos dados de todas as despesas regist
+   * In this project was proposed for the group carry out an expense control in Assembly-MIPS, the program must to :
+* 1) Register an expense: record data of an expense, contains the minimun informations:  data (day, month and year in numeric format), category (type of expense defined by the user with at most 15 characters) and amount spend in "real". Wich expense register must own one field called id (single numeric identifier), inicialized with the amount 1 and incrementing automatically in every new expense recorded.
+* 2) List of expense: display all the expenses recorded.
+* 3) Delete an expense: delete by selecting the id.
+* 4) Display month's expense: based in the data from all the expenses recorded, display the amount in each month.
+* 5) Display category's expense: based in the data from all the expenses recorded, display the amount in each category, in alphabetical order.
+* 6) Display expenses ranking: based in the data from all the expenses recorded.
 
-### Pré-requisitos
+### Requirements
 
-#### Sistema Operacional
-* Foi utilizado o Windows 10, mas pode ser realizado em outro sistema operacional, necessita instalar o compilador compatível com o sistema operacional.
+ #### Compilator
+*  Software MARS (MIPS Assembler and Runtime Simulator) was used for compilation and execution.
+* <a> [MARS (MIPS Assembler and Runtime Simulator)(http://courses.missouristate.edu/kenvollmar/mars/download.htm)
 
- #### Compilador
-* Foi utilizado o software MARS (MIPS Assembler and Runtime Simulator) para compilação e execução de todo o projeto.
-* <a> [MARS (MIPS Assembler and Runtime Simulator): Necessário para desenvolvimento do projeto](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
-
-   * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação assembly do MIPS.
-   
-   ### Guia de instalação
-* Para executar o programa na linguagem assembly do MIPS, no qual o algoritmo foi realizado, necessita apenas do software MARS, podendo ser realizado o download e desenvolvendo o projeto com ele, como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima.
-
-### Desenvolvimento
+### Development
 * Git clone https://github.com/murilodepa/Expense-Control.git
-* Se realizar "Download ZIP", necessita de um descompactador de arquivos.
-* Após ter instalado o software MARS, deve ser aberto com o software o código anexado no repositório *.asm*.
-* Logo em seguida, execute o programa, para o projeto ser executado.
+* If you realizes "Download ZIP" then  you gonna need an unzip software.
+* After you installed MARS, it must been opened with the code attached *.asm*.
 
-### Desenvolvedores
+### Developers
 * Murilo de Paula Araujo.
 * Christopher de Oliveira Souza.
 * Beatriz Morelatto Lorente.
 * Leonardo Sanavio.
 
 
-### Contribuições
-* Contribuições e possíveis melhorias, no nosso ponto de vista são sempre bem-vindas.
+### Contributions
+* Contributions and improvements are always welcome.
